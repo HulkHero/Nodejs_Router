@@ -1,0 +1,5 @@
+{"name":"had","age":"50","email":"haad@.com"}
+{"name":"shehroz","age":"22","email":"menaiibataonga@.com","password":"abcdedsd","number":"01234567891","university":"pu","address":"gujranwala","gender":"male"}
+{"name":"hamid","age":"42","email":"menaiibataonga@.com","password":"abcdedsd","number":"01234567891","university":"idk","address":"gujranwala","gender":"male"}
+{"name":"hammad","age":"42","email":"menaiibataonga@.com","password":"abcdedsd","number":"01234567891","university":"idk","address":"gujranwala","gender":"male"}
+{"name":"adil","age":52,"email":"menaiibataonga@.com","password":"abcdedsd","number":"01234567891","university":"idk","address":"faisalabad","gender":"male"}
